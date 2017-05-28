@@ -18,7 +18,7 @@ Random test for BST and BTree
 Sorted test for BST and BTree
 
 | Nodes count | BST addition | BST search | BTree addition | BTree search | BTree parameter |
-| —-— | —-----— | —— | —--— | —--— | —---— |
+|--|--|--|--|--|--|
 | 1 000 | 24 ms | 1 ms | 6 ms | 1 ms | 10 |
 | 10 000 | 389 ms | 3 ms | 59 ms | 3 ms | 50 |
 | 100 000 | 38 s 847 ms | 18 ms | 74 ms | 14 ms | 50 |
